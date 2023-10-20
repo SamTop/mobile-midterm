@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Midterm</string>
+    <string name="app_name">Bull\'s Eye Game</string>
+    <string name="objective">Move the slider as close as you can to: </string>
+    <string name="button_name">Hit me</string>
+    <string name="score">Your score: </string>
+    <string name="perfect">Perfect! you scored 5 points</string>
+    <string name="try_again">Try again to get closer</string>
 </resources>
